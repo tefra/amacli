@@ -1,2 +1,0 @@
-# amacli
-Amadeus terminal emulator
